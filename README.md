@@ -1,0 +1,1 @@
+# bshop-custom-ckeditor5
